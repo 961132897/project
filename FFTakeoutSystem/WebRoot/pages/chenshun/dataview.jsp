@@ -27,5 +27,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <body onload='dataview()'>
    	<div id="mydiv" style="width:1000px;height: 600px"></div>
    		<!-- <div id="zhuzhaung" style="width:1000px;height: 600px"></div> -->
+   		&nbsp<button><a  style="text-decoration:none;" href="<%=path %>/pages/chenshun/backstage.jsp">返回</a></button>
   </body>
 </html>
